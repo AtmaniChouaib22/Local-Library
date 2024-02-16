@@ -1,5 +1,5 @@
 <h1>the odin project: Local library</h1>
-<p>built using node.js, Express, MongoDb, Pug(jade)</p>
+<p>built using node.js, Express, MongoDb(mongoose), Pug(jade)</p>
 
 <h4>this project covers: </h4>
 <ul>
@@ -9,5 +9,5 @@
     <li>writing basic CRUD operations</li>
     <li>environment variables</li>
     <li>accessing and quering from a Database</li>
-    <li>error handling</li>
+    <li>error handling and sanitation</li>
 </ul>
