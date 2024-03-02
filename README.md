@@ -1,4 +1,4 @@
-<h1>the odin project: Local library</h1>
+<h1>Local library</h1>
 <p>built using node.js, Express, MongoDb(mongoose), Pug(jade)</p>
 
 <h4>this project covers: </h4>
